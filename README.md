@@ -12,8 +12,4 @@ Step-by-step guide:
 - Run the script.
 - ✨Magic✨
 
-Once you have your report:
-
-- Edit your Structure Loads Report: filter and delete the sets that were already added. Only keep the new sets.
-- Paste the vectorial sum into your filtered Structure Loads Report.
-- Run the other Python script that generates the Structure Loads Table.
+After generating your report, edit it and run the second Python script — configured to read the `.xlsx` file you just created — to generate the Structure Loads Table.
